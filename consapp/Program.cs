@@ -7,7 +7,7 @@ namespace consapp
         static void Main(string[] args)
         {
             var tt = 99;
-            string b= 34;
+            string b= "34";
            
             Console.WriteLine("Hello World!"); 
         }
