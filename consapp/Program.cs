@@ -6,7 +6,7 @@ namespace consapp
     {
         static void Main(string[] args)
         {
-            var a = 45;
+            //var a = 45;
            
             Console.WriteLine("Hello World!"); 
         }
