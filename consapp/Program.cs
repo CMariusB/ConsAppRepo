@@ -9,7 +9,7 @@ namespace consapp
             var tt = 99;
             if (tt == 100)
             {
-                var d = 321;
+                var d = 555;
             }
            
             Console.WriteLine("Hello World!"); 
