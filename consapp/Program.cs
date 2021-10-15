@@ -6,7 +6,7 @@ namespace consapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");aaS
+            Console.WriteLine("Hello World!");
         }
     }
 }
